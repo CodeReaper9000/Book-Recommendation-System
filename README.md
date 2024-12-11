@@ -1,4 +1,5 @@
 # Book-Recommendation-System
+![recommendation_page](Images/homepage.png)
 ## Implementation
 Used clustering algorithm and Collaborative Filtering to make a book recommendation System.
 
